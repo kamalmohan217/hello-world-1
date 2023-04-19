@@ -1,2 +1,2 @@
-<h1> Hello, Sample Application for Tomcat Deployment !!! </h1>
+<h1> Sample Application for Tomcat Deployment !!! </h1>
 
